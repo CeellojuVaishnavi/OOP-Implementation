@@ -28,4 +28,4 @@ public class Remote implements SmartTvRemote{
         obj.Prime();
     }
 }
-//unlike abstract classes here objects or instances can be created for interfaces
+//Here reference is created for SmartTV interface and object for Remote class
